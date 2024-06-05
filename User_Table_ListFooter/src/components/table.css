@@ -1,0 +1,31 @@
+/* src/components/Table.css */
+.table-container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
